@@ -24,10 +24,22 @@
     <ClCompile Include="Main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewGroup.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageView.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
     <ClCompile Include="Window.cpp">
       <Filter>Исходные файлы\UI</Filter>
     </ClCompile>
-    <ClCompile Include="View.cpp">
+    <ClCompile Include="TextView.cpp">
       <Filter>Исходные файлы\UI</Filter>
     </ClCompile>
   </ItemGroup>
@@ -47,6 +59,21 @@
     <ClInclude Include="View.h">
       <Filter>Файлы заголовков\UI</Filter>
     </ClInclude>
+    <ClInclude Include="ViewGroup.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="MLQCAction.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageView.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="TextView.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Minecraft.rc">
@@ -55,6 +82,15 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="D:\Minecraft\Minecraft\icon.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="back.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="login.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="password.bmp">
       <Filter>Файлы ресурсов</Filter>
     </Image>
   </ItemGroup>

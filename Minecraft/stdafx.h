@@ -18,3 +18,8 @@
 #include <wingdi.h>
 #include <objidl.h>
 #include <thread>
+#include <map>
+
+#ifndef MLQC
+#define MLQC minecraftLauncherQuestCraft
+#endif

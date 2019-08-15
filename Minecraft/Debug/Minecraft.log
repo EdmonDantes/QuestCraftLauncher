@@ -1,2 +1,10 @@
-﻿  Main.cpp
+﻿  Window.cpp
+c:\users\masa_\source\repos\minecraft\minecraft\window.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\masa_\source\repos\minecraft\minecraft\window.h(51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\masa_\source\repos\minecraft\minecraft\window.h(53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+c:\users\masa_\source\repos\minecraft\minecraft\window.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\masa_\source\repos\minecraft\minecraft\window.cpp(35): warning C5043: "minecraftLauncherQuestCraft::Window::Window": спецификация исключения не соответствует предыдущему объявлению
+  c:\users\masa_\source\repos\minecraft\minecraft\window.h(51): note:  см. объявление "minecraftLauncherQuestCraft::Window::Window"
+c:\users\masa_\source\repos\minecraft\minecraft\window.cpp(76): warning C5043: "minecraftLauncherQuestCraft::Window::onCreate": спецификация исключения не соответствует предыдущему объявлению
+  c:\users\masa_\source\repos\minecraft\minecraft\window.h(53): note:  см. объявление "minecraftLauncherQuestCraft::Window::onCreate"
   Minecraft.vcxproj -> C:\Users\masa_\source\repos\Minecraft\Debug\Minecraft.exe
